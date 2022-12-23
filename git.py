@@ -19,9 +19,3 @@ print ("Master master master master")
 print("Change in copy ==> master-copy")
 print("Change in copy ==> master-copy")
 print ("Master master master master")
-
-print("Change in copy ==> master-copy")
-print("Change in copy ==> master-copy")
-
-print("Change in copy ==> master-copy")
-print("Change in copy ==> master-copy")
